@@ -1,6 +1,6 @@
 ### Hi there, I'm Indrajit Shinde👋
 
-[![Youtube Subscribe](https://img.shields.io/website?label=Indrjait Shinde&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.youtube.com/c/PGBIHQ)
+[![Youtube Subscribe](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/PGBIHQ)
 
 ## I'm a Software Engineer, Youtuber, Competative Coder, and Problem Solving Enthusiast!!
 

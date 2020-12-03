@@ -66,12 +66,6 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.indrajitfed.vercel.app/api?username=IndrajitFED&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://pgbihq.com
 [youtube]: https://www.youtube.com/c/PGBIHQ
